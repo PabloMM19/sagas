@@ -1,8 +1,8 @@
 1	Harry Potter y la piedra filosofal
 2	Harry Potter y la cámara secreta
 3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+4	Harry potter parte 4
+5	Harry potter parte 5
+6	Harry potter parte 6
+7	Harry potter parte 7
+8	Harry potter parte 8
